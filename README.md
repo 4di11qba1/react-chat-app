@@ -48,6 +48,7 @@ To run the chat application locally, follow these steps:
 
 - ChatEngine: [https://chatengine.io/](https://chatengine.io/)
 - React.js: [https://reactjs.org/](https://reactjs.org/)
+- Tutorial: (https://www.youtube.com/watch?v=jcOKU9f86XE&pp=ygUQcmVhY3QgY2hhdGVuZ2luZQ%3D%3D)
 
 ## Demo
 
